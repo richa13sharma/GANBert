@@ -2,7 +2,7 @@
 
 
 In scope predictions:
-Data: The data for this experiment can be found under the folder 'data' .  It is the file from the CLINC150 repository found at this link: 
+Data: The data for this experiment can be found under the folder 'data'.  It is the file from the CLINC150 repository found at this link: https://github.com/clinc/oos-eval
 This file has to be copied onto google colab for this set of experiments. 
 The folder 'in-scope' contains the notebooks for the different split variations of data. Each notebook is one kind of split variation. The split variation 10-90 essentially serves as the base variation of the data. 
 The 'stats' folder contains all information about the variations.
